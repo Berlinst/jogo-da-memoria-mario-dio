@@ -13,4 +13,4 @@ Código do Bruno: https://github.com/SpruceGabriela/jogo-da-memoria-dio/pull/2
 Cronômetro da Satella Soft: https://github.com/satellasoft/cronometro-js
 
 ### Exemplo
-![Exercício Dark Mode e Light Mode](img/exemplo-md.PNG)
+![Gameplay Vídeo](img/gameplay-video.gif)
