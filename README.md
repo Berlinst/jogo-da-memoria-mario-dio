@@ -9,6 +9,7 @@ Gostaria também de referenciar o código do [Bruno Lobregat](https://github.com
 
 Valeu devs!
 Código do Bruno: https://github.com/SpruceGabriela/jogo-da-memoria-dio/pull/2
+
 Cronômetro da Satella Soft: https://github.com/satellasoft/cronometro-js
 
 ### Exemplo
