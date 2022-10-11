@@ -9,7 +9,8 @@ Gostaria também de referenciar o código do [Bruno Lobregat](https://github.com
 
 Valeu devs!
 Código do Bruno: https://github.com/SpruceGabriela/jogo-da-memoria-dio/pull/2
+
 Cronômetro da Satella Soft: https://github.com/satellasoft/cronometro-js
 
 ### Exemplo
-![Gameplay Vídeo](img/gameplay-video.gif)
+![Exercício Dark Mode e Light Mode](img/exemplo-md.PNG)
